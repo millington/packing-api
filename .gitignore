@@ -25,7 +25,7 @@ hs_err_pid*
 # IntelliJ
 .DS_Store
 .idea
-
+*.iml
 # Java Target files
 .classpath
 .project
@@ -34,3 +34,4 @@ target/
 
 # Challenge Files
 Packaging Challenge.pdf
+
